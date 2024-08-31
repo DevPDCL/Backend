@@ -1,11 +1,6 @@
 #MERN stack
 
 
-
-
-##course plan
-
-
 ##Environment Setup
 
 
